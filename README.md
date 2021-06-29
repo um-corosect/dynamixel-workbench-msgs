@@ -1,9 +1,9 @@
 # Dynamixel Workbench
 ![](https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/sw/dynamixel/dynamixel_workbench/DYNAMIXEL_WORKBENCH_LOGO.png)
 
-[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/tree/kinetic-devel)
-[![melodic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/tree/melodic-devel)
-[![noetic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel_workbench_msgs/tree/noetic-devel)
+[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/tree/kinetic-devel)
+[![melodic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/tree/melodic-devel)
+[![noetic-devel Status](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/tree/noetic-devel)
 
 ## ROBOTIS e-Manual for Dynamixel Workbench
 - [ROBOTIS e-Manual for Dynamixel Workbench](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/)
